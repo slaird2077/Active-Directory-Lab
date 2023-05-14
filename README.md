@@ -60,6 +60,10 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <br/>
  Under "General" and then "Advanced", select "Bidirectional" for Shared Clipboard and Drag'n'Drop - Shared Clipboard allows you to ctrl+c and ctrl+v from your desktop to your VM and Drag'n'Drop allows you to drag files from your desktop to your VM:  <br/>
  <img src="https://i.imgur.com/bG6jDmJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ Under "Network" and "Adapter 1", make sure Enable Network Adapter is selected and "NAT" is selected - this will act as our Network Interface Card (NIC) and will be how we connect to the internet:  <br/>
+ <img src="https://i.imgur.com/fwh9xlV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
