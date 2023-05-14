@@ -15,10 +15,10 @@ This is my first attempt at a home lab IT project and is very much a learning ex
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Download and install Oracle VM Virtual Box AND Extension Pack: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
