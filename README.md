@@ -50,8 +50,12 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <img src="https://i.imgur.com/nmzt01O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
- Make sure info looks correct and click Finish:  <br/>
+ Make sure info looks correct and click "Finish":  <br/>
  <img src="https://i.imgur.com/ZHfc5lC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ Before we install Windows Server 2019 on the Domain Controller, click "Settings":  <br/>
+ <img src="https://i.imgur.com/Oa92id3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
