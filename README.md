@@ -56,6 +56,10 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <br/>
  Before we install Windows Server 2019 on the Domain Controller, click "Settings":  <br/>
  <img src="https://i.imgur.com/Oa92id3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ Under "General" and then "Advanced", select "Bidirectional" for Shared Clipboard and Drag'n'Drop - Shared Clipboard allows you to ctrl+c and ctrl+v from your desktop to your VM and Drag'n'Drop allows you to drag files from your desktop to your VM:  <br/>
+ <img src="https://i.imgur.com/bG6jDmJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
