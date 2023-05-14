@@ -106,7 +106,7 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <img src="https://i.imgur.com/GJlAV7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br/>
  <br/>
- Under "Inpout" and then "Keyboard", you can either click "Insert Ctrl+Alt+Del" or you can use the hotkey "Host+Delete" on your keyboard - The "Host" button is actually the "Right Ctrl" on your keyboard:  <br/>
+ Under "Input" and then "Keyboard", you can either click "Insert Ctrl+Alt+Del" or you can use the hotkey "Host+Delete" on your keyboard - The "Host" button is actually the "Right Ctrl" on your keyboard:  <br/>
  <img src="https://i.imgur.com/85k5bZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br/>
  <br/>
