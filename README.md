@@ -24,8 +24,8 @@ Download Windows 10:  <br/>
 <img src="https://i.imgur.com/ezTBkKx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Follow setup steps and remember where you have the Windows 10 on your File Explorer: <br/>
+<img src="https://i.imgur.com/vebEfAV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
