@@ -80,6 +80,9 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <br/>
  Once it is loaded into the VM drop down list, click "Mount and Retry Boot":  <br/>
  <img src="https://i.imgur.com/ZG6MHym.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ 
 </p>
 
 <!--
