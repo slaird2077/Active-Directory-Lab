@@ -44,6 +44,10 @@ Click "New" to create the first virtual machine - name it Domain Controller - se
 <br />
 Allocate the RAM and CPUs that will work best for your computer:  <br/>
 <img src="https://i.imgur.com/ZIiItgu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Allocate Virtual Hard Disk size (I did 40GB but the default of 20GB should be fine):  <br/>
+ <img src="https://i.imgur.com/nmzt01O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
