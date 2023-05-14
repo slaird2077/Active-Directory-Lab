@@ -48,6 +48,10 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
 <br />
  Allocate Virtual Hard Disk size (I did 40GB but the default of 20GB should be fine):  <br/>
  <img src="https://i.imgur.com/nmzt01O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+ Make sure info looks correct and click Finish:  <br/>
+ <img src="https://i.imgur.com/ZHfc5lC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
