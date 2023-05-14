@@ -19,7 +19,7 @@ This is my first attempt at a home lab IT project and is very much a learning ex
 
 <p align="center">
 Download and install Oracle VM Virtual Box AND Extension Pack: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fULG1ql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
