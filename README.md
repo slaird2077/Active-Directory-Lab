@@ -20,7 +20,7 @@ Download and install Oracle VM Virtual Box AND Extension Pack: <br/>
 <img src="https://i.imgur.com/fULG1ql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Download Windows 10 - select 64 bit if prompted:  <br/>
+Download Windows 10 - select 64bit if prompted:  <br/>
 <img src="https://i.imgur.com/ezTBkKx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -28,8 +28,8 @@ Follow setup steps and remember where you have the Windows 10 on your File Explo
 <img src="https://i.imgur.com/vebEfAV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Windows Server 2019 - select ISO 64bit - remember where it is in File Explorer:  <br/>
+<img src="https://i.imgur.com/Q9s3oNn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
