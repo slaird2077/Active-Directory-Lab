@@ -110,6 +110,14 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <img src="https://i.imgur.com/85k5bZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br/>
  <br/>
+ Enter your password for the Administrator account and hit "Enter" on your keyboard:  <br/>
+ <img src="https://i.imgur.com/ipuhm2W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ Click the "Internet Access" icon at the bottom right of the screen and click "Network and Internet settings":  <br/>
+ <img src="https://i.imgur.com/r39QECY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
  
 </p>
 
