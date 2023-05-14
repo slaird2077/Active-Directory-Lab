@@ -7,7 +7,9 @@ This is my first attempt at a home lab IT project and is very much a learning ex
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- <b>Oracle VM Virtual Machine</b>
+- <b>Active Directory</b>
+- <b>PowerShell</b>
 
 <h2>Environments Used </h2>
 
