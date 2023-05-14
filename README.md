@@ -32,8 +32,8 @@ Download Windows Server 2019 - select ISO 64bit - remember where it is in File E
 <img src="https://i.imgur.com/Q9s3oNn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open Oracle VM Virtual Box:  <br/>
+<img src="https://i.imgur.com/pvqYVWf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
