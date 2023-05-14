@@ -94,6 +94,10 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <img src="https://i.imgur.com/PCwToeS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br/>
  <br/>
+ On the next screen, Drive 0 should be the only drive listed - click "Next":  <br/>
+ <img src="https://i.imgur.com/PLtXnqs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
  
 </p>
 
