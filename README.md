@@ -1,7 +1,5 @@
 <h1>Active Directory Home Lab</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
+ 
 <h2>Description</h2>
 This is my first attempt at a home lab IT project and is very much a learning experience so bear with me!  I am trying to get familiar with essential programs that will be used in almost every IT environment and gain hands-on experience.  Project consists of a downloading Oracle VM VirtualBox, setting up two virtual machines, and running Active Directory. The first virtual machine will be the Domain Controller and will have Active Directory.  The second will be an end user/client computer.  By the end, I will be able to make policy updates on the Domain Controller and see it take affect on the End User virtual machine. 
 <br />
