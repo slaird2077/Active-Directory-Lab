@@ -62,8 +62,16 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <img src="https://i.imgur.com/bG6jDmJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br/>
  <br/>
- Under "Network" and "Adapter 1", make sure Enable Network Adapter is selected and "NAT" is selected - this will act as our Network Interface Card (NIC) and will be how we connect to the internet:  <br/>
+ Under "Network" and "Adapter 1", make sure "Enable Network Adapter" is selected and "NAT" is selected - this will act as our Network Interface Card (NIC) and will be how we connect to the internet:  <br/>
  <img src="https://i.imgur.com/fwh9xlV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ Under "Adapter 2", click "Enable Network Adapter" and select "Internal Network" under the drop down list:  <br/>
+ <img src="https://i.imgur.com/vkaMS3U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ Double-click the Domain Controller VM to start it - It will give you an error saying that it "failed to boot" - Under "DVD" and then "Other", you will have to find where you stored your Windows Server 2019 in File Explorer:  <br/>
+ <img src="https://i.imgur.com/whhwPYh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
