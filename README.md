@@ -36,7 +36,7 @@ Open Oracle VM Virtual Box:  <br/>
 <img src="https://i.imgur.com/pvqYVWf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Click "New" to create a the first virtual machine - name it Domain Controller:  <br/>
+Click "New" to create a the first virtual machine - name it Domain Controller - select Microsoft Windows and Windows 10 64bit:  <br/>
 <img src="https://i.imgur.com/tBDhkxM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
