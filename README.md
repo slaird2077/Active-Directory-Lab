@@ -82,12 +82,19 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <img src="https://i.imgur.com/ZG6MHym.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br/>
  <br/>
- The virtual machine should start up and you will be prompted to install Windows Server 2019 - click "Install Now":  <br/>
+ The virtual machine should start up and you will be prompted to install Windows Server 2019 - click "Install Now" - select the language you need and click "Next":  <br/>
  <img src="https://i.imgur.com/6UMxgRa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br/>
  <br/>
- Select the "Windows Server 2019 Standard Evaluation (Desktop Experience)" - this will have the graphical user interface (GUI):  <br/>
+ Select the "Windows Server 2019 Standard Evaluation (Desktop Experience)" - this will have the graphical user interface (GUI) - click "Next" - accept license agreements:  <br/>
  <img src="https://i.imgur.com/PzcUTJg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ Click "Custom: Install Windows only" to install Windows Server 2019:  <br/>
+ <img src="https://i.imgur.com/PCwToeS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ 
 </p>
 
 <!--
