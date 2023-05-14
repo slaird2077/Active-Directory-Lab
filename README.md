@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This is my first attempt at a home lab IT project and is very much a learning experience so bear with me!  I am trying to get familiar with essential programs that will be used in almost every IT environment and gain hands-on experience.  Project consists of a downloading Oracle VM VirtualBox, setting up two virtual machines, and running Active Directory. The first virtual machine will be the Domain Controller and will have Active Directory.  The second will be an end user/client computer.  By the end, I will be able to make policy updates on the Domain Controller and see it take affect on the End User virtual machine. 
 <br />
 
 
