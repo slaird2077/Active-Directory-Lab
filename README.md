@@ -20,7 +20,7 @@ Download and install Oracle VM Virtual Box AND Extension Pack: <br/>
 <img src="https://i.imgur.com/fULG1ql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Download Windows 10:  <br/>
+Download Windows 10 - select 64 bit if prompted:  <br/>
 <img src="https://i.imgur.com/ezTBkKx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
