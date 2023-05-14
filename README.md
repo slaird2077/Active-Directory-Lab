@@ -98,8 +98,12 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <img src="https://i.imgur.com/PLtXnqs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br/>
  <br/>
- Windows will begin installing on your virtual machine - this should take a while:  <br/>
+ Windows will begin installing on your virtual machine - this should take a while - the virtual machine will reboot - do not press anything during this process:  <br/>
  <img src="https://i.imgur.com/VAw1ve7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ Enter a password for the "Administrator" user account and click "Finish":  <br/>
+ <img src="https://i.imgur.com/GJlAV7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
