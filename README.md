@@ -72,6 +72,11 @@ Allocate the RAM and CPUs that will work best for your computer:  <br/>
  <br/>
  Double-click the Domain Controller VM to start it - It will give you an error saying that it "failed to boot" - Under "DVD" and then "Other", you will have to find where you stored your Windows Server 2019 in File Explorer:  <br/>
  <img src="https://i.imgur.com/whhwPYh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+ Your Windows 2019 Server ISO file might have a confusing name - select it:  <br/>
+ <img src="https://i.imgur.com/BUiAvuU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
 </p>
 
 <!--
