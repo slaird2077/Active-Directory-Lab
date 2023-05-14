@@ -40,8 +40,8 @@ Click "New" to create the first virtual machine - name it Domain Controller - se
 <img src="https://i.imgur.com/tBDhkxM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Allocate the RAM and CPUs that will work best for your computer:  <br/>
+<img src="https://i.imgur.com/ZIiItgu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
